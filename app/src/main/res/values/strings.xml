@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SingApp</string>
+    <string name="sing_in">Sing in</string>
+    <string name="sing_up">Sing up</string>
+    <string name="todo">TODO</string>
+    <string name="todo1">TODO</string>
+    <string name="button">Button</string>
+    <string name="name">Name</string>
+    <string name="name1">Name</string>
+    <string name="name2">Name</string>
+    <string name="name3">Name</string>
+    <string name="name4">Name</string>
+    <string name="avatar">Avatar</string>
+    <string name="todo2">TODO</string>
+    <string name="done">Done</string>
+</resources>
